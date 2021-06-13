@@ -1,0 +1,28 @@
+Class
+
+ > Class id the collection of objects.
+ 
+ > Class is not a real world entity. It is just a template or blueprint
+ or prototype.
+ 
+ > Class does not Occupy Memory.
+
+syntax :
+
+class Example {
+		// methods.
+		// constructors.
+		// fields.
+		// blocks.
+		// nested class.
+	}
+	
+	
+class Animal {
+	eat();	// Methods.
+	run();	// Methods.
+	
+	}
+	
+
+	

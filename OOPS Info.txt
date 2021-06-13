@@ -1,0 +1,27 @@
+OOPS
+object oriented programming system/ structure.
+
+ > oop is a programming paradigm/methodology. { paradigm can also be termed
+	as method to solve problem or do some task. programming paradigm
+	is an approch to solve problem using some programming lang. or 
+	also we can say it is a method to solve a problem using tools and 
+	techniques that are available to us following some approch. }
+
+
+Programming Paradigm has many ways :-
+(1)	Object Oriented Paradigm.
+(2) Procedural Paradigm.
+(3) Functional Paradigm.
+(4) Logical Paradigm.
+(5) Structured Paradigm.
+
+
+Six Main Pillars of OOP's are :-
+(1) Class.
+(2) Object and Methods.
+(3) Inheritance.
+(4) Polymorphism.
+(5) Abstraction.
+(6) Encapsulation.
+
+** Smalltalk is First purely Object Oriented Programming Lang. **
