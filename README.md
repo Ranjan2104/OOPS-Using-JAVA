@@ -5,3 +5,4 @@ Smalltalk is considered the first truly object-oriented programming language.
 The popular object-oriented languages are Java, C#, PHP, Python, C++, etc.
 The main aim of object-oriented programming is to implement real-world entities, for example, object, classes, abstraction, inheritance, polymorphism, etc.
 
+![OOPS-CONCEPTS-IN-JAVA](https://user-images.githubusercontent.com/60054130/121793838-940f9100-cc20-11eb-8930-9e729fbe7d1c.jpg)
